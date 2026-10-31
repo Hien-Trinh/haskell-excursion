@@ -1,0 +1,3 @@
+The quick brown fox jumps over the lazy dog. The dog sleeps.
+A lazy language evaluates only what it needs; the fox is not lazy.
+Haskell is lazy, pure, and the type checker is your friend.
